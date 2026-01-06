@@ -1,2 +1,2 @@
-# Jamchin.github.io-lecture-recorder-
+# lectureRecorder
 Studying tool, bc my brain is fried
